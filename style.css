@@ -63,3 +63,7 @@ button {
 button:hover {
   background-color: #fff4a0;
 }
+a{
+  text-decoration: none;
+  color: gold;
+}
